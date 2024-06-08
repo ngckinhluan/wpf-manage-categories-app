@@ -6,6 +6,6 @@
 * Delete categories
 * Styled UI using WPF tags
 ### Screenshots
-* ![Image](./images/pic1.png)
+![Image](./images/pic1.png)
 #### Connect me via: nkluantran2907@gmail.com
 ##### &#169; 2024 luan.tran
