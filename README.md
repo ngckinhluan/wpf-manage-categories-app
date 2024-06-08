@@ -6,6 +6,9 @@
 * Delete categories
 * Styled UI using WPF tags
 ### Screenshots
-* Update Later...
+* ![Image](./images/pic1.png)
+### Demonstration
+* ![Video](./demo/demo.mp4)
+* The reason why when I added 2 new category into the list and its id incremented to 26 and 27 respectively, that is because I have added some categories before to test this app and I use int identity type for CategoryID which auto-incremented by 1 when user added a new category.
 #### Connect me via: nkluantran2907@gmail.com
 ##### &#169, 2024 luan.tran
