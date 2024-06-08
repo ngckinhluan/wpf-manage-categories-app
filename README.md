@@ -6,7 +6,6 @@
 * Delete categories
 * Styled UI using WPF tags
 ### Screenshots
-<<<<<<< HEAD
 ![Image](./images/pic1.png)
 ### Demonstration
 * You can see the demonstration included in the folder.
